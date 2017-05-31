@@ -21,9 +21,9 @@ Você deve parsear o arquivo e no final mostrar as seguintes informações na sa
 Uma tabela mostrando a quantidade de webhooks por status
 Ex:
 
-https://woodenoyster.com.br - 100
-https://grotesquemoon.de - 99
-https://notoriouslonesome.com - 90
+- https://woodenoyster.com.br - 100
+- https://grotesquemoon.de - 99
+- https://notoriouslonesome.com - 90
 
 200 - 100
 201 - 99
@@ -37,8 +37,8 @@ Essa task pode ser feita utilizando a linguagem de programaçao de sua preferên
 
 A avaliação será feita baseada em:
 
-Linha de pensamento (documentar o que julgar importante)
-Design do código
-Eficiência
-Testes
-Acerto
+- Linha de pensamento (documentar o que julgar importante)
+- Design do código
+- Eficiência
+- Testes
+- Acerto
