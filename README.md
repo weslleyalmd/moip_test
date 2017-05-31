@@ -1,3 +1,14 @@
+# Para executar
+
+Eu desenvolvi um "Command Line interface", execute o arquivo cli.rb e instale a gem terminal-table. As do CLI estão a seguir:
+
+1. Set log file
+2. Process file
+3. Get the three most called URLs
+4. Get all code occurrence
+5. Exit
+
+
 # Introdução
 
 O Moip tem uma aplicação que envia webhooks para os ecommerces de seus clientes, esses webhooks possuem informações sobre pagamentos (se foram autorizados, cancelados, etc).
