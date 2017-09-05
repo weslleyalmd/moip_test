@@ -1,3 +1,4 @@
+
 # Para executar
 
 Eu desenvolvi um "Command Line interface", execute o arquivo cli.rb e instale a gem terminal-table. As do CLI estão a seguir:
